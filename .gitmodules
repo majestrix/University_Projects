@@ -1,0 +1,15 @@
+[submodule "118/OS_Project"]
+	path = 118/OS_Project
+	url = https://github.com/majestrix/OS_Project.git
+[submodule "118/DSP_Project"]
+	path = 118/DSP_Project
+	url = https://github.com/majestrix/DSP_Project.git
+[submodule "118/Web_Project"]
+	path = 118/Web_Project
+	url = https://github.com/majestrix/Web_Project.git
+[submodule "118/Linux_Project"]
+	path = 118/Linux_Project
+	url = https://github.com/majestrix/Linux_Project.git
+[submodule "118/Networks_Project"]
+	path = 118/Networks_Project
+	url = https://github.com/majestrix/Networks_Project.git
