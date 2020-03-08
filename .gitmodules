@@ -13,3 +13,6 @@
 [submodule "118/Networks_Project"]
 	path = 118/Networks_Project
 	url = https://github.com/majestrix/Networks_Project.git
+[submodule "119/AI_Project"]
+	path = 119/AI_Project
+	url = https://github.com/majestrix/AI_Project.git
