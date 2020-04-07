@@ -1,6 +1,6 @@
 # University Project📚📚
 A bunch of projects worthy of mention🤔
-
+Most of the repos were private so most of the MDs aren't public-friendly.
 
 
 ## [1182] (Third Year)
