@@ -14,3 +14,4 @@ A bunch of projects worthy of mention🤔
 
 ## [1191] (Fourth Year)
 * [Artifical Intelligence](https://github.com/majestrix/AI_Project)
+* [Architecture](https://github.com/majestrix/Arch_Project)
