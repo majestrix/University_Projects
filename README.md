@@ -15,3 +15,6 @@ Most of the repos were private so most of the MDs aren't public-friendly.
 ## [1191] (Fourth Year)
 * [Artifical Intelligence](https://github.com/majestrix/AI_Project)
 * [Architecture](https://github.com/majestrix/Arch_Project)
+
+## [1192] (Fourth Year)
+* [Real Time Embedded-Systems](https://github.com/majestrix/realTime_Project)
